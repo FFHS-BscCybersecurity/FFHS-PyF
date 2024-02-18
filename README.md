@@ -1,2 +1,2 @@
-# FFHS-PYF
+# FFHS-PyF
 FFHS Modul - Python Fundamentals
